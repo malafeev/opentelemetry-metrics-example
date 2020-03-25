@@ -1,2 +1,1 @@
-# sergeymalafeev-gmail.com
-opentelemetry-metrics-example
+# opentelemetry-metrics-example
